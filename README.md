@@ -8,7 +8,7 @@ My name is NotCrypto and I'm a Software Developer and a  System engineer. I'm fr
 
 ## &#x270d;  System Admin & Security
 
-Besides programming I also do System Management and Security. I do this for a fee. <br> If you are interested you can contract me via my email: cryptonic@riseup.net
+Besides programming I also do System Management and Security. I do this for a fee. If you are interested you can contract me via my email: cryptonic@riseup.net
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
