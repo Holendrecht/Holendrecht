@@ -25,11 +25,11 @@ My name is NotCrypto and I'm a Software Developer and a  System engineer. I'm fr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotCrypto&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/NotCrypto/NotCrypto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotCrypto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotCrypto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="NotCrypto's GitHub Stats" />
 </a>
 
 <a href="https://github.com/NotCrypto/NotCrypto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=NotCrypto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=a&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <!--
