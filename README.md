@@ -1,9 +1,11 @@
-[![Header](https://github.com/NotCrypto/NotCrypto/blob/master/images/sevn.png "Header")](https://google.com)
-<h1 align='center'> 👋 | Hoi!</h1>
+<!-- Gemaakt door inspiratie van https://github.com/MartinHeinz !-->
+
+[![Header](https://github.com/NotCrypto/NotCrypto/blob/master/assets/sevn.png "Header")](https://google.com)
+Hi, People! <img src="https://raw.githubusercontent.com/NotCrypto/NotCrypto/master/assets/wave.gif" width="30px">
 <p align='center'>
 I'm NotCrypto.
 </p>
 <p align='center'>
 I am a Developer and a System Administrator</a>.</p>
 
-<h1 align='center'><i>Stay Cool!</i></h1
+<h1 align='center'><i>Stay Cool!</i></h10
