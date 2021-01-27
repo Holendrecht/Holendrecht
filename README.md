@@ -6,9 +6,9 @@
 My name is NotCrypto and I'm a Software Developer and a  System engineer. I'm from The Netherland, living in Amsterdam and currently studying! You can contact me on my Discord: N-O-T  C R Y P T O#7589
 </p>
 
-## &#x270d; Blog & Writing
+## &#x270d;  System Admin & Security
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Besides programming I also do System Management and Security, I do this for a fee, If you are interested you can contract me via my email: cryptonic@riseup.net
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
