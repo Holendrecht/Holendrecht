@@ -28,14 +28,15 @@ My name is NotCrypto and I'm a Software Developer and a  System engineer. I'm fr
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotCrypto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/NotCrypto/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/NotCrypto/NotCrypto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=NotCrypto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+<!--
 <a href="https://github.com/NotCrypto/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=hier ander project naam&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+-->
 
 
 <h1 align='center'><i>Stay Cool!</i></h1>
