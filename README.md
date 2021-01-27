@@ -1,8 +1,9 @@
-[![Banner van NotCrypto]("https://github.com/NotCrypto/NotCrypto/raw/master/images/sevn-format.svg")]
+[![Banner van NotCrypto]("https://github.com/NotCrypto/NotCrypto/blob/master/images/sevn.png")]
 <h1 align='center'> 👋 | Hoi!</h1>
 <p align='center'>
 I'm NotCrypto.
 </p>
-<p align='center'>Wil je iets hebben geprogrammeerd? Kan je me bereiken via Discord: N-O-T  C R Y P T O#7589</a>.</p>
+<p align='center'>
+I am a Developer and a System Administrator</a>.</p>
 
 <h1 align='center'><i>Stay Cool!</i></h1
