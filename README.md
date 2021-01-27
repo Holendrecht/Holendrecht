@@ -1,4 +1,4 @@
-[![Banner van NotCrypto]("https://github.com/NotCrypto/NotCrypto/blob/master/images/sevn.png")]
+[![Header](https://github.com/NotCrypto/NotCrypto/blob/master/images/sevn.png "Header")](https://google.com)
 <h1 align='center'> 👋 | Hoi!</h1>
 <p align='center'>
 I'm NotCrypto.
