@@ -1,4 +1,4 @@
-[![alt]("link naar banner")]("link voor website of dergelijken")
+[![Banner van NotCrypto]("https://github.com/NotCrypto/NotCrypto/blob/master/images/sevn.jpg")]("https://pornhub.com")
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 ss
