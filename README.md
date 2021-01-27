@@ -6,6 +6,10 @@
 My name is NotCrypto and I'm a Software Developer and a  System engineer. I'm from The Netherland, living in Amsterdam and currently studying! You can contact me on my Discord: N-O-T  C R Y P T O#7589
 </p>
 
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -35,6 +39,16 @@ My name is NotCrypto and I'm a Software Developer and a  System engineer. I'm fr
 <a href="https://github.com/NotCrypto/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Untitled012&repo=GoLang-Server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 
 <h1 align='center'><i>Stay Cool!</i></h1>
