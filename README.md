@@ -1,4 +1,4 @@
-[![Banner van NotCrypto]("https://github.com/NotCrypto/NotCrypto/raw/master/images/sevn.jpg")]
+[![Banner van NotCrypto]("https://github.com/NotCrypto/NotCrypto/raw/master/images/sevn-format.svg")]
 <h1 align='center'> Test</h1>
 <p align='center'>
 ss
