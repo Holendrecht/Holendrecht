@@ -1,4 +1,4 @@
-[![Banner van NotCrypto]("https://github.com/NotCrypto/NotCrypto/blob/master/images/sevn.jpg")]("https://pornhub.com")
+[![Banner van NotCrypto]("https://github.com/NotCrypto/NotCrypto/raw/master/images/sevn.jpg")]
 <h1 align='center'> Test</h1>
 <p align='center'>
 ss
