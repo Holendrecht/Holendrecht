@@ -29,14 +29,12 @@ My name is NotCrypto and I'm a Software Developer and a  System engineer. I'm fr
 </a>
 
 <a href="https://github.com/NotCrypto/NotCrypto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=a&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=NotCrypto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<!--
 <a href="https://github.com/NotCrypto/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NotCrypto&repo=hier ander project naam&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Untitled012&repo=GoLang-Server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
--->
 
 
 <h1 align='center'><i>Stay Cool!</i></h1>
