@@ -1,7 +1,7 @@
 <!-- Gemaakt door inspiratie van https://github.com/MartinHeinz !-->
 
 [![Header](https://github.com/NotCrypto/NotCrypto/blob/master/assests/sevn.png "Header")](https://github.com)
-# Hi, People ! <img src="https://raw.githubusercontent.com/NotCrypto/NotCrypto/master/assets/wave.gif" width="30px">
+# Hi, People ! <img src="https://github.com/NotCrypto/NotCrypto/blob/master/assests/wave.gif" width="30px">
 <p align='center'>
 I'm NotCrypto.
 </p>
