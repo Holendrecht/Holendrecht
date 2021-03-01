@@ -36,7 +36,7 @@ Besides programming I also do System Management and Security. I do this for a fe
 </a>
 
 <a href="https://github.com/Holendrecht/NotCrypto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Holendrecht&repo=NotCrypto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Holendrecht&repo=bricksrp_scoreboard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/Holendrecht/go-project-blueprint">
