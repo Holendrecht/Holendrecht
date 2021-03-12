@@ -3,7 +3,7 @@
 [![Header](https://github.com/Holendrecht/Holendrecht/blob/master/assests/sevn.png "Header")](https://github.com)
 # Hi, People ! <img src="https://github.com/Holendrecht/Holendrecht/blob/master/assests/wave.gif" width="30px">
 <p align='center'>
-My name is Holendrecht and I'm a Software Developer and a System engineer. I'm from The Netherlands, living in Amsterdam and currently studying! You can contact me on my Discord: N-O-T  C R Y P T O#7589
+My name is Holendrecht and I'm a Software Developer and a System engineer. I'm from The Netherlands, living in Amsterdam and currently studying! You can contact me on my Discord: Ho𝕳𝖔𝖑𝖊𝖓𝖉𝖗𝖊𝖈𝖍𝖙#7589
 </p>
 
 ## &#x270d;  System Admin & Security
