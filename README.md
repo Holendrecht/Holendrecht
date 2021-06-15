@@ -1,9 +1,7 @@
 <!-- Gemaakt door inspiratie van https://github.com/MartinHeinz !-->
-
-[![Header](https://github.com/h1sti/h1sti/blob/master/assests/sevn.png "Header")](https://github.com)
 # Hi, People ! <img src="https://github.com/h1sti/h1sti/blob/master/assests/wave.gif" width="30px">
 <p align='center'>
-My name is h1sti and I'm a Software Developer and a System engineer. I'm from The Netherlands, living in Amsterdam and currently studying! You can contact me on my Discord: н1ѕтι.#0001
+My name is h1sti and I'm a Software Developer and a System engineer. I'm from The Netherlands, living in Amsterdam and currently studying! You can contact me on my Discord: н1ѕтι.#0001 or hoax@rijksoverheid.net
 </p>
 
 ## &#x270d;  System Admin & Security
